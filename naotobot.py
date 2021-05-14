@@ -188,4 +188,4 @@ async def ahegao(ctx):
     x = data2["msg"]
     await ctx.send(f'{x}')
 
-client.run('ODI2NTI1NzE4ODUwMzA2MDUw.YGNwDw.4ZNDxjoj9qpaHlWcz5qSSo39sYU')
+client.run('')
